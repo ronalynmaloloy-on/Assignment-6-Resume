@@ -1,0 +1,13 @@
+C:\Users\Charlimagne\source\repos\Assign6Resume\Assign6Resume\bin\Debug\Assign6Resume.exe.config
+C:\Users\Charlimagne\source\repos\Assign6Resume\Assign6Resume\bin\Debug\Assign6Resume.exe
+C:\Users\Charlimagne\source\repos\Assign6Resume\Assign6Resume\bin\Debug\Assign6Resume.pdb
+C:\Users\Charlimagne\source\repos\Assign6Resume\Assign6Resume\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Charlimagne\source\repos\Assign6Resume\Assign6Resume\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Charlimagne\source\repos\Assign6Resume\Assign6Resume\obj\Debug\Assign6Resume.csproj.AssemblyReference.cache
+C:\Users\Charlimagne\source\repos\Assign6Resume\Assign6Resume\obj\Debug\Assign6Resume.Form1.resources
+C:\Users\Charlimagne\source\repos\Assign6Resume\Assign6Resume\obj\Debug\Assign6Resume.Properties.Resources.resources
+C:\Users\Charlimagne\source\repos\Assign6Resume\Assign6Resume\obj\Debug\Assign6Resume.csproj.GenerateResource.cache
+C:\Users\Charlimagne\source\repos\Assign6Resume\Assign6Resume\obj\Debug\Assign6Resume.csproj.CoreCompileInputs.cache
+C:\Users\Charlimagne\source\repos\Assign6Resume\Assign6Resume\obj\Debug\Assign6Resume.csproj.CopyComplete
+C:\Users\Charlimagne\source\repos\Assign6Resume\Assign6Resume\obj\Debug\Assign6Resume.exe
+C:\Users\Charlimagne\source\repos\Assign6Resume\Assign6Resume\obj\Debug\Assign6Resume.pdb
